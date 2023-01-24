@@ -1,0 +1,6 @@
+func add (x,y int) int {
+    z = 0
+    x := 0
+    y := 0
+    return x+y
+}

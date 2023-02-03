@@ -1,5 +1,7 @@
 func add (x,y int) int {
-    z = 0
+    zi = 0
+    zy = 0
+    zy git  = 0
     x := 0
     y := 0
     return x+y

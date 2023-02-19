@@ -2,7 +2,7 @@ func add (x,y int) int {
     zi = 0
     zy = 0
     zy git  = 12
-    x := 1
+    x := 2
     y := 0
     return x+y
 }

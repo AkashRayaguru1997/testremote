@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 func add (x,y int) string {
+=======
+func add (x,y int) float {
+>>>>>>> 77c1466 (return value changed to float)
     zi = 10
     zy = 0
     zy git  = 17
